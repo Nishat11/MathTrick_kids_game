@@ -1,0 +1,292 @@
+c:\users\nishant\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\nishant\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\nishant\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\nishant\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\nishant\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home_page.resources
+c:\users\nishant\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\nishant\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\nishant\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\nishant\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+c:\users\nishant\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Math_Trick.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\math_master\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\math_master\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\math_master\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home_page.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Math_Trick.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\backups\math_master\math_master\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\backups\math_master\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\backups\math_master\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\backups\math_master\math_master\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\backups\math_master\math_master\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\backups\math_master\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\backups\math_master\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home_page.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\backups\math_master\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_2_trick.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\backups\math_master\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\backups\math_master\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\backups\math_master\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_Muultiply_By11.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\backups\math_master\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_multi_by_12.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\backups\math_master\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.certificate.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\backups\math_master\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_frm_11to20.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\backups\math_master\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3._15perc_of_num.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\backups\math_master\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.prime_num.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\backups\math_master\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_101to199.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\backups\math_master\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_2_num.resources
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3._15perc_of_num.resources
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.certificate.resources
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home_page.resources
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_2_trick.resources
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_multi_by_12.resources
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_Muultiply_By11.resources
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.prime_num.resources
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_frm_11to20.resources
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_101to199.resources
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_2_num.resources
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Trick_7_11_13.resources
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Table9.resources
+C:\Users\Ami\Downloads\math_master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Multiply6to10.resources
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3._15perc_of_num.resources
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Trick_7_11_13.resources
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.certificate.resources
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home_page.resources
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Multiply6to10.resources
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_2_trick.resources
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_multi_by_12.resources
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_Muultiply_By11.resources
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.prime_num.resources
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_frm_11to20.resources
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_101to199.resources
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_2_num.resources
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Table9.resources
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Ami\Downloads\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3._15perc_of_num.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Trick_7_11_13.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.certificate.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home_page.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Multiply6to10.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_2_trick.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_multi_by_12.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_Muultiply_By11.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.prime_num.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_frm_11to20.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_101to199.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_2_num.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Table9.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.decimal_to_binary.resources
+C:\Users\Ami\Desktop\Fall 2016\Advanced SwE\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Ami\Desktop\Fall 2016\Advanced SwE\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Ami\Desktop\Fall 2016\Advanced SwE\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.fastFive.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MultiplyBy5ToThePowerN.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.BigNumberAddition.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Trick_Pi.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.multiplyBy6.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TwoDigitEndsWith5.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ThreeDigitSquare.resources
+C:\Users\Ami\Desktop\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.devide9.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3._15perc_of_num.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TwoDigitEndsWith5.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ThreeDigitSquare.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Trick_7_11_13.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.BigNumberAddition.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.certificate.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.decimal_to_binary.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.devide9.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.fastFive.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home_page.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Multiply6to10.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MultiplyBy5ToThePowerN.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.multiplyBy6.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_2_trick.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_multi_by_12.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_Muultiply_By11.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.prime_num.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_frm_11to20.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_101to199.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_2_num.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Table9.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Trick_Pi.resources
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\nishant\Desktop\test_advance\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3._15perc_of_num.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TwoDigitEndsWith5.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ThreeDigitSquare.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Trick_7_11_13.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.BigNumberAddition.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.certificate.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.decimal_to_binary.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.devide9.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.fastFive.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home_page.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Multiply6to10.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MultiplyBy5ToThePowerN.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.multiplyBy6.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_2_trick.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_multi_by_12.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_Muultiply_By11.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.prime_num.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_frm_11to20.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_101to199.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_2_num.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Table9.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Trick_Pi.resources
+C:\Users\reham\Desktop\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3._15perc_of_num.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TwoDigitEndsWith5.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ThreeDigitSquare.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Trick_7_11_13.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.BigNumberAddition.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.certificate.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.decimal_to_binary.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.devide9.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.fastFive.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home_page.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Multiply6to10.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MultiplyBy5ToThePowerN.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.multiplyBy6.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_2_trick.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_multi_by_12.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_Muultiply_By11.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.prime_num.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_frm_11to20.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_101to199.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_2_num.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Table9.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Trick_Pi.resources
+C:\Users\nishant\Desktop\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3._15perc_of_num.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TwoDigitEndsWith5.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ThreeDigitSquare.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Trick_7_11_13.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.BigNumberAddition.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.certificate.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.decimal_to_binary.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.devide9.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.fastFive.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home_page.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Multiply6to10.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MultiplyBy5ToThePowerN.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.multiplyBy6.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_2_trick.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_multi_by_12.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_Muultiply_By11.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.prime_num.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_frm_11to20.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_101to199.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_2_num.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Table9.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Trick_Pi.resources
+C:\Users\Henry\Desktop\StMU\Fall 2016\Advanced Software Engineering\Group Project\Idar\Nov27UpdatedFinal\math_master_Final\math_master_Final\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3._15perc_of_num.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TwoDigitEndsWith5.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ThreeDigitSquare.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Trick_7_11_13.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.BigNumberAddition.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.certificate.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.decimal_to_binary.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.devide9.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.fastFive.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home_page.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Multiply6to10.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MultiplyBy5ToThePowerN.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.multiplyBy6.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_2_trick.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_multi_by_12.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_Muultiply_By11.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.prime_num.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_frm_11to20.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_101to199.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_2_num.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Table9.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Trick_Pi.resources
+C:\Users\nishant\Desktop\screens\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3._15perc_of_num.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TwoDigitEndsWith5.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ThreeDigitSquare.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Trick_7_11_13.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.BigNumberAddition.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.certificate.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.decimal_to_binary.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.devide9.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.fastFive.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Home_page.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Multiply6to10.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MultiplyBy5ToThePowerN.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.multiplyBy6.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_2_trick.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_multi_by_12.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.No_Muultiply_By11.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.prime_num.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_frm_11to20.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_101to199.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.sqr_of_2_num.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Table9.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Trick_Pi.resources
+C:\3Drive study\MS_Computer\sem_3\advance_software_engineering\Trick_mathster_all\TrickMathster_Updated27Nov2016\math_master_Final\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
